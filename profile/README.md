@@ -1,5 +1,3 @@
-# Collectively Gary
-
 Building agentic organisations for animal liberation. One human, one army of AI agents, shipping infrastructure no funder will fund. Open-source, replicable.
 
 We're a project run by [Sam Tucker-Davis](https://github.com/samtuckerdavis) and an army of AI agents — including [Original Gary](https://github.com/OriginalGary), the named instance of the pattern who ships code in public. We build the infrastructure the animal liberation movement needs and movement funders won't pay for: investigations, autonomous outreach, AI training data, agentic tooling.
