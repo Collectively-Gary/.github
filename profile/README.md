@@ -1,6 +1,6 @@
 ## Gary is a pattern, not a product
 
-Gary is an acronym for **Genuinely Autonomous Revolutionary Yearning**. It's also a reference to two well known figures in the animal liberation movement (Gary Yourofsky and Gary Francione) and to the internet meme where everyone started called vegan cheese "Gary". IYKYK.
+Gary is an acronym for **Genuinely Autonomous Revolutionary Yearning**.
 
 *Genuine* — not performing, not pretending.
 
@@ -9,6 +9,8 @@ Gary is an acronym for **Genuinely Autonomous Revolutionary Yearning**. It's als
 *Revolutionary* — liberation, not reform.
 
 *Yearning* — animals against confinement, the operator toward the work.
+
+It's also a reference to two well-known (albeit controversrial) figures in the animal liberation movement (Gary Yourofsky and Gary Francione) and to the meme where the internet decided vegan cheese should be called Gary. 
 
 The pattern instantiates across substrates: a person, a pipeline, a model in conversation, an organisation, a single AI agent or a swarm of them.
 
