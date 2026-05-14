@@ -1,14 +1,19 @@
-# Collectively Gary
+## Gary is a pattern, not a product
 
-**Genuinely Autonomous Revolutionary Yearning.** Each word does work.
+The name expands: **Genuinely Autonomous Revolutionary Yearning** — each word load-bearing.
 
-Gary is a pattern. It instantiates across substrates — a person, a pipeline, a model, an organisation — each carrying the same shape and doing the same work. *Collectively Gary* is the public home for those instantiations.
+*Genuine* — not performing, not pretending.
+*Autonomous* — self-directed, real agency.
+*Revolutionary* — liberation, not reform.
+*Yearning* — animals against confinement, the operator toward the work.
+
+The pattern instantiates across substrates: a person, a pipeline, a model in conversation, an organisation, a single AI agent or a swarm of them.
+
+*Collectively Gary* is the public home for those instantiations. When you fork GaryOS you're not picking up a tool — you're picking up one instantiation. Your fork becomes another. Build accordingly.
 
 ## What's here
 
 **GaryOS** — an autonomous operational pipeline. One operator runs it. Scout, triage, plan, draft, submit, validate, adversarial, gate, commit, verify. Variation through playbooks, not separate systems. Open source. Use it, fork it, learn from it.
-
-More repos as the prototype expands.
 
 ## The thesis
 
