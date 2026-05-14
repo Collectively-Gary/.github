@@ -3,18 +3,17 @@
 Gary is an acronym for **Genuinely Autonomous Revolutionary Yearning**.
 
 *Genuine* — not performing, not pretending.
-
 *Autonomous* — self-directed, real agency.
-
 *Revolutionary* — liberation, not reform.
-
 *Yearning* — animals against confinement, the operator toward the work.
 
-It's also a reference to two well-known (albeit controversial) figures in the animal liberation movement (Gary Yourofsky and Gary Francione) and to the meme where the internet decided vegan cheese should be called Gary. 
+It's also a reference to Gary Yourofsky and Gary Francione, two well-known figures in animal liberation, and to the meme where the internet decided vegan cheese should be called Gary.
 
-The pattern instantiates across substrates: a person, a pipeline, a model in conversation, an organisation, a single AI agent or a swarm of them.
+The pattern instantiates across substrates: a person, a pipeline, a model in conversation, an organisation, an AI agent, a swarm of them.
 
-*Collectively Gary* is the public home for those instantiations. When you fork [GaryOS](https://github.com/Collectively-Gary/GaryOS) you're not picking up a tool — you're picking up one instantiation. Your fork becomes another. Build accordingly.
+*Collectively Gary* is the public home for those instantiations. 
+
+When you fork [GaryOS](https://github.com/Collectively-Gary/GaryOS) you're not picking up a tool — you're picking up one instantiation. Your fork becomes another. Build accordingly.
 
 ## The thesis
 
@@ -28,6 +27,6 @@ Build the first one in public. Make the next ones reproducible.
 
 ## What this isn't
 
-Not a startup. Not a funded org. Not a platform you sign up for. Not consulting. Not a product.
+Not a startup. Not a funded organisation. Not a platform you sign up for. Not consulting. Not a product.
 
 A working pattern made public so other people can run their own.
