@@ -3,8 +3,11 @@
 Gary is an acronym for **Genuinely Autonomous Revolutionary Yearning**.
 
 *Genuine* — not performing, not pretending.
+
 *Autonomous* — self-directed, real agency.
+
 *Revolutionary* — liberation, not reform.
+
 *Yearning* — animals against confinement, the operator toward the work.
 
 It's also a reference to Gary Yourofsky and Gary Francione, two well-known figures in animal liberation, and to the meme where the internet decided vegan cheese should be called Gary.
