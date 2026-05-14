@@ -14,11 +14,7 @@ It's also a reference to two well-known (albeit controversial) figures in the an
 
 The pattern instantiates across substrates: a person, a pipeline, a model in conversation, an organisation, a single AI agent or a swarm of them.
 
-*Collectively Gary* is the public home for those instantiations. When you fork GaryOS you're not picking up a tool — you're picking up one instantiation. Your fork becomes another. Build accordingly.
-
-## What's here
-
-**GaryOS** — an autonomous operational pipeline. One operator runs it. Scout, triage, plan, draft, submit, validate, adversarial, gate, commit, verify. Variation through playbooks, not separate systems. Open source. Use it, fork it, learn from it.
+*Collectively Gary* is the public home for those instantiations. When you fork [GaryOS](https://github.com/Collectively-Gary/GaryOS) you're not picking up a tool — you're picking up one instantiation. Your fork becomes another. Build accordingly.
 
 ## The thesis
 
