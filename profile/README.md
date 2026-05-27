@@ -24,12 +24,4 @@ Hundreds of billions of animals are confined right now. The resource ratio betwe
 
 You can't out-fund that gap. You can change what one operator can do.
 
-The bet: an autonomous AI organisation, run by a single person, with infrastructure that compounds, can carry the operational weight of a small NGO. If the prototype works, the second instantiation is faster. The tenth doesn't need its own founder.
-
-Build the first one in public. Make the next ones reproducible.
-
-## What this isn't
-
-Not a startup. Not a funded organisation. Not a platform you sign up for. Not consulting. Not a product.
-
-A working pattern made public so other people can run their own.
+The bet: an autonomous AI organisation, run by a single person, with infrastructure that compounds, can carry the operational weight of a small NGO.
