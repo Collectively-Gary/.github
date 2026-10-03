@@ -9,9 +9,9 @@ Propose asset changes in the source repository first. After merging them, fetch
 its default branch and use the private `samtuckerdavis/workspace-sync` tooling:
 
 ```sh
-python3 brand_sync.py --source ~/Desktop/Collectively-Gary/GaryOS --target /path/to/consumer
+python3 ~/Desktop/.navdocs/brand_sync.py --source ~/Desktop/Collectively-Gary/GaryOS --target /path/to/consumer
 # Review drift, create an isolated branch/worktree, then write the update:
-python3 brand_sync.py --source ~/Desktop/Collectively-Gary/GaryOS --target /path/to/consumer --apply
+python3 ~/Desktop/.navdocs/brand_sync.py --source ~/Desktop/Collectively-Gary/GaryOS --target /path/to/consumer --apply
 ```
 
 The command copies committed source blobs and updates the lock. It refuses dirty
@@ -22,5 +22,13 @@ Archived copies remain frozen, and the GaryOS app submodule pin is updated in a
 separate explicit PR. No scheduled updates or automatic merges are enabled.
 
 For the canonical source itself, change brand files through a source PR, then
-regenerate its provenance lock from the committed source tree. Its source_commit
-can precede a provenance-only commit because source_tree pins the exact assets.
+print a fresh lock from the committed source tree, then copy it into a clean
+source PR worktree:
+
+```sh
+python3 ~/Desktop/.navdocs/brand_sync.py --source ~/Desktop/Collectively-Gary/GaryOS --manifest-only > /tmp/gary-brand-source.json
+cp /tmp/gary-brand-source.json /path/to/source-pr-worktree/BRAND-SOURCE.json
+```
+
+Its source_commit can precede a provenance-only commit because source_tree pins
+the exact assets.
